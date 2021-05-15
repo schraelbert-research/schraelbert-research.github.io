@@ -42,7 +42,18 @@ a {
   text-decoration:none;
 }
 
+a.ny {
+  color:#267CB9;
+  // color:#B20024;
+  text-decoration:none;
+}
+
 a:hover, a:focus {
+  color:#069;
+  font-weight: bold;
+}
+
+a.ny:hover, a.ny:focus {
   color:#069;
   font-weight: bold;
 }
